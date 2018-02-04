@@ -1,0 +1,1 @@
+<h3>Mods</h3> Weapons and gear now have Mod slots on top of their Perks. By selecting the respective item, you can infuse, modify and shade the item from the one screen. Mods range from cooldown reductions to weapon handling improvements to even changing ammo type. Most importantly, legendary mods add light levels to your gear. Be warned though, these are single-use items.

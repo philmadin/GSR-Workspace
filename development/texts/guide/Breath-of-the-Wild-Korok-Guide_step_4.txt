@@ -1,0 +1,1 @@
+Here, you need to get a stone, and throw them within these circles. Oftentimes, the distance is too great, so I created a row of ice pillars to bounce them off. It's not easy, but it works! Just make sure the gaps between them are as small as possible.

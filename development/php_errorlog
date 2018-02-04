@@ -1,0 +1,48 @@
+[04-Aug-2017 17:26:39 Australia/Brisbane] 
+[04-Aug-2017 17:26:39 Australia/Brisbane] 
+[04-Aug-2017 17:27:36 Australia/Brisbane] 
+[04-Aug-2017 17:27:36 Australia/Brisbane] 
+[04-Aug-2017 17:32:21 Australia/Brisbane] SELECT * FROM tbl_ranks WHERE id = 11
+[04-Aug-2017 17:32:21 Australia/Brisbane] SELECT * FROM tbl_ranks WHERE id = 11
+[04-Aug-2017 17:33:08 Australia/Brisbane] integer
+[04-Aug-2017 17:33:08 Australia/Brisbane] integer
+[04-Aug-2017 17:35:47 Australia/Brisbane] 
+[04-Aug-2017 17:35:47 Australia/Brisbane] 
+[04-Aug-2017 17:36:30 Australia/Brisbane] 11
+[04-Aug-2017 17:36:30 Australia/Brisbane] 11
+[04-Aug-2017 17:38:34 Australia/Brisbane] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/gameshar/public_html/development/perms.php on line 23
+[04-Aug-2017 17:38:46 Australia/Brisbane] 
+[04-Aug-2017 17:38:46 Australia/Brisbane] 
+[04-Aug-2017 17:39:38 Australia/Brisbane] 
+[04-Aug-2017 17:39:38 Australia/Brisbane] 
+[04-Aug-2017 17:40:08 Australia/Brisbane] results: 
+[04-Aug-2017 17:40:08 Australia/Brisbane] results: 
+[04-Aug-2017 17:41:44 Australia/Brisbane] results: 
+[04-Aug-2017 17:41:44 Australia/Brisbane] results: 
+[04-Aug-2017 17:42:52 Australia/Brisbane] results: dev-tests, my-articles, manage-articles, articlelist-editorschoice, articlelist-approve, articlelist-finalise, manage-changelog, dashboard, dashboard-announcement, manage-staff, manage-users, manage-ranks, edit-article-override, chat-commands, delete-ranks, manage-xp, holiday-test, manage-wiki, recruitment
+[04-Aug-2017 17:42:52 Australia/Brisbane] results: dev-tests, my-articles, manage-articles, articlelist-editorschoice, articlelist-approve, articlelist-finalise, manage-changelog, dashboard, dashboard-announcement, manage-staff, manage-users, manage-ranks, edit-article-override, chat-commands, delete-ranks, manage-xp, holiday-test, manage-wiki, recruitment
+[04-Aug-2017 17:43:28 Australia/Brisbane] True
+[04-Aug-2017 17:43:28 Australia/Brisbane] True
+[04-Aug-2017 17:43:43 Australia/Brisbane] True
+[04-Aug-2017 17:43:43 Australia/Brisbane] True
+[04-Aug-2017 17:43:53 Australia/Brisbane] True
+[04-Aug-2017 17:44:20 Australia/Brisbane] True
+[04-Aug-2017 17:44:20 Australia/Brisbane] True
+[04-Aug-2017 17:44:20 Australia/Brisbane] True
+[04-Aug-2017 17:44:20 Australia/Brisbane] True
+[04-Aug-2017 17:44:20 Australia/Brisbane] True
+[04-Aug-2017 17:44:20 Australia/Brisbane] True
+[04-Aug-2017 17:44:20 Australia/Brisbane] True
+[04-Aug-2017 17:44:20 Australia/Brisbane] True
+[04-Aug-2017 17:44:20 Australia/Brisbane] True
+[04-Aug-2017 17:44:20 Australia/Brisbane] True
+[04-Aug-2017 17:48:41 Australia/Brisbane] 
+[04-Aug-2017 17:49:28 Australia/Brisbane] 1234
+[04-Aug-2017 17:49:59 Australia/Brisbane] 
+[04-Aug-2017 17:51:34 Australia/Brisbane] 
+[04-Aug-2017 17:52:50 Australia/Brisbane] 
+[04-Aug-2017 17:53:17 Australia/Brisbane] 
+[04-Aug-2017 17:53:54 Australia/Brisbane] 
+[04-Aug-2017 17:54:34 Australia/Brisbane] 
+[04-Aug-2017 17:54:57 Australia/Brisbane] 
+[17-Sep-2017 03:20:12 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/gameshar/public_html/development/dashboard.php on line 125

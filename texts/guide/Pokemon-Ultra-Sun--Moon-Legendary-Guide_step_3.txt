@@ -1,0 +1,86 @@
+Each Wormhole has only one Pokémon. If there is a Legendary present, the screen will flash white so it is recommended to save.
+Here is a list of the different Pokémon found in each wormhole:
+<h3>White Wormhole</h3>
+Rarity: Common
+Buzzwole [Ultra Sun Exclusive]
+Pheromosa [Ultra Moon Exclusive]
+Nihilego
+Rarity: Uncommon
+Kartana [Ultra Sun Exclusive]
+Celesteela [Ultra Moon Exclusive]
+Xurkitree
+Rarity: Rare
+Guzzlord
+
+<h3>Blue Wormhole</h3>
+Legendary:
+Latios [Ultra Sun Exclusive]
+Kyogre [Ultra Moon Exclusive]
+Lugia [Ultra Moon Exclusive]
+Latias [Ultra Moon Exclusive]
+Azelf
+Uxie
+Mesprit
+Kyurem [Reshiram & Zekrom Required in Party]
+Suicune [Entei & Rakou Required in Party]
+Common:
+Barbaracle
+Floatzel
+Lombre
+Quagsire
+Stunfisk
+
+<h3>Green Wormhole</h3>
+Legendary:
+Dialga [Ultra Sun Exclusive]
+Raikou [Ultra Sun Exclusive]
+Xerneas [Ultra Sun Exclusive]
+Reshiram [Ultra Sun Exclusive]
+Zekrom [Ultra Moon Exclusive]
+Entei [Ultra Moon Exclusive]
+Cobalion
+Virizion
+Terrakion
+Mewtwo
+Common:
+Audino
+Drapion
+Grumpig
+Heliolisk
+Nuzleaf
+
+<h3>Yellow Wormhole</h3>
+Legendary:
+Groudon [Ultra Sun Exclusive]
+Heatran [Ultra Sun Exclusive]
+Palkia [Ultra Moon Exclusive]
+Regigigas [Ultra Moon Exclusive]
+Regice
+Registeel
+Regirock
+Giratina [Palkia & Dialga Required in Party]
+Common:
+Abomasnow
+Crustle
+Hippowdon
+Magcargo
+Medicham
+
+<h3>Red Wormhole</h3>
+Legendary:
+Ho-Oh [Ultra Sun Exclusive]
+Tornadus [Ultra Sun Exclusive]
+Yveltal [Ultra Moon Exclusive]
+Thundurus [Ultra Moon Exclusive]
+Moltres
+Zapdos
+Articuno
+Cresselia
+Rayquaza [Kyogre & Groudon Required in Party]
+Landorus [Thundurus & Tornadus Required in Party]
+Common:
+Altaria
+Swanna
+Swellow
+Sigilyph
+Yanmega

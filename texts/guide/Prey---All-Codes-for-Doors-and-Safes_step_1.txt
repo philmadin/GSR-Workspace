@@ -1,0 +1,7 @@
+<h3>Safes</h3>Lobby - Safe found in Morgan Yu’s Office: 0451
+Lobby - Safe found in the Security room: 0526
+Lobby - Dr. DeVries’ Safe: 7324
+Located at the beginning: Debriefing Safe: 5150
+Hardware Labs - Dr. Thorstein’s Safe: 9954
+Psychotronics - Armory: 8714
+Crew Quarters - Dr. Calvino’s Safe: 0523

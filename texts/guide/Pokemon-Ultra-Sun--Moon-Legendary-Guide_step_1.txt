@@ -1,0 +1,2 @@
+When entering an Ultra Wormhole, you have the option to ride Solgaleo or Lunala. The Ultra Wormhole has 2 orbs, the orange speed up orb and the blue slow down orb. The orange gives you +1 speed and the blue orb gives you -2 speed. If your speed falls below a threshold, you will be dragged in the nearest wormhole.
+Wormholes take you to one of 5 ultra spaces. Each one contains different Pokémon types for you to catch. The further you travel, the higher the rarity of Pokémon you will find in each wormhole.

@@ -1,0 +1,1 @@
+Most of the key codes in Prey are randomly generated. This means that each time a new game is created, different codes are generated for safes and doors. <p><br></p><p>Fortunately, there are some safes and doors that can be accessed with universal key codes. </p>

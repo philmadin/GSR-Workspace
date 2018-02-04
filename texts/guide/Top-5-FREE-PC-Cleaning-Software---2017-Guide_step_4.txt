@@ -1,0 +1,6 @@
+<h3>4. IOBIT DRIVER BOOSTER</h3> The simplest way to explain what a device driver is, is explaining someone who drives a car.
+The driver controls all facets of the vehicle. They steer, they accelerate and set a pace. You need a driver if the car is to go anywhere.
+The same applies to a device driver. If you plug in a new keyboard or mouse, chances are that they will automatically install drivers when they're connected.
+In some cases, devices don't automatically install drivers and they don't update themselves. You NEED to update drivers for hardware to work at peak performance.
+Iobit Driver Booster takes the guesswork out of the equation. It automatically searches and installs the drivers that you absolutely need.
+It is highly recommended and free to use.

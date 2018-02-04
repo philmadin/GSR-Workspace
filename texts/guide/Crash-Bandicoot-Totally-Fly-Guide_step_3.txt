@@ -1,0 +1,1 @@
+Make use of Crash's slide jump(O+X). Some of the jumps can be deceiving, especially with enemies waiting on the other side. The extra height and speed will help you overcome them.

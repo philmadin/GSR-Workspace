@@ -1,0 +1,4 @@
+<h3>Doors</h3>Lobby - Holding Room: 1129
+Lobby - IT Department: 0913
+Power Plant - Reactor Room: 3845
+In Space (Exterior) - Dr. Igwe’s Cargo Container: 2312

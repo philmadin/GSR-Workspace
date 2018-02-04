@@ -1,0 +1,3 @@
+<h3>5. JETBOOST</h3> Programs can hide themselves in your system tray, even after you've closed them. This means that they are chewing up your performance unnecessarily.
+Forcing the programs to close can be a hassle, especially if you don't know where to begin. 
+JetBoost eliminates unwanted programs and keeps them closed for good. Not only is it 100% free, but it also boosts gaming performance and overall PC performance at the click of a button. 

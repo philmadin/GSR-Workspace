@@ -1,0 +1,1 @@
+This is where the game will force you to progress left or right. I recommend going left, it is relatively easy as there are only a few turtles you have to zip past. Once you have killed the turtles and collected the boxes slowly come back through the left path. Try to remember which direction the turtles are walking and jump over them until you get back to the fork.

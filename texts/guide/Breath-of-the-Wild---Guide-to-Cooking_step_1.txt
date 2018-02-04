@@ -1,0 +1,3 @@
+In order to cook, you will need to find a cooking pot, which is always right on top of a campfire. If the fire has gone out, don’t worry - it can be re-ignited with a lit torch, fire arrow or flint struck with a metal weapon.
+Go into your inventory, select the first ingredient you’d like to cook with, and then choose ‘Hold’. Select all other ingredients you’d like to include (up to five), press ‘B’ to return to the game and then interact with the campfire to begin cooking. Job done!
+If no cooking pot is available, it is possible to sear/roast/char ingredients over a campfire; however this method only works for single ingredients. This will never provide a buff, but can get you out of a sticky situation if you’re low on health.

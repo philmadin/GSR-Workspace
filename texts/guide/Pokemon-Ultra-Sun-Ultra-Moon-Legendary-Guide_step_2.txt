@@ -1,0 +1,12 @@
+The farther you travel, the better the wormholes get. They are of 4 rarities:
+No Rings
+Single Ring
+Double Ring
+Double Ring and pattern
+The more light years you travel, the higher the chance these higher-rarity wormholes will appear. The rarest wormhole only starts to appear after 2500 light years.
+Each Wormhole has a designated colour:
+White Wormholes 
+Blue Wormholes 
+Red Wormholes 
+Yellow Wormholes 
+Green Wormholes

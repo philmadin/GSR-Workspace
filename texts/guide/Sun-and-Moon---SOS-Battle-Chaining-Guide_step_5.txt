@@ -1,0 +1,2 @@
+<h3>Break a chain</h3> Remember the risks. There are several ways to break a chain. You can do this by either running away from the battle, fainting the Pokémon without an ally present, or fainting the Pokémon when the ally has a call rate of zero.
+Also, keep track of the moves and PP the Pokémon has used so it doesn’t hurt itself and accidentally faint itself.

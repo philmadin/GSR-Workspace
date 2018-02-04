@@ -1,0 +1,71 @@
+[04-Aug-2017 17:59:43 Australia/Brisbane] This
+[18-Aug-2017 10:54:33 Australia/Brisbane] PHP Notice:  Undefined variable: delete_aimageFILE in /home/gameshar/public_html/submitguide.php on line 287
+[18-Aug-2017 10:54:33 Australia/Brisbane] PHP Notice:  Undefined variable: delete_bimageFILE in /home/gameshar/public_html/submitguide.php on line 288
+[18-Aug-2017 10:54:33 Australia/Brisbane] PHP Notice:  Undefined variable: delete_cimageFILE in /home/gameshar/public_html/submitguide.php on line 289
+[18-Aug-2017 10:54:33 Australia/Brisbane] PHP Notice:  Undefined variable: delete_dimageFILE in /home/gameshar/public_html/submitguide.php on line 290
+[18-Aug-2017 10:54:33 Australia/Brisbane] PHP Notice:  Undefined variable: delete_eimageFILE in /home/gameshar/public_html/submitguide.php on line 291
+[18-Aug-2017 10:54:33 Australia/Brisbane] PHP Notice:  Undefined variable: delete_mainFILE in /home/gameshar/public_html/submitguide.php on line 292
+[18-Aug-2017 11:15:44 Australia/Brisbane] PHP Warning:  getimagesize(): Filename cannot be empty in /home/gameshar/public_html/submitguide.php on line 207
+[01-Sep-2017 12:10:21 Australia/Brisbane] PHP Warning:  getimagesize(): Filename cannot be empty in /home/gameshar/public_html/submitguide.php on line 207
+[01-Sep-2017 12:10:21 Australia/Brisbane] PHP Notice:  Undefined variable: image_array in /home/gameshar/public_html/submitguide.php on line 232
+[01-Sep-2017 12:12:40 Australia/Brisbane] PHP Warning:  getimagesize(): Filename cannot be empty in /home/gameshar/public_html/submitguide.php on line 207
+[17-Sep-2017 05:29:37 CST6CDT] PHP Fatal error:  Call to undefined function has_perms() in /home/gameshar/public_html/dashboard-chat.php on line 12
+[18-Sep-2017 22:35:20 CST6CDT] PHP Fatal error:  Call to undefined function has_perms() in /home/gameshar/public_html/dashboard-chat.php on line 12
+[20-Oct-2017 21:28:10 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/gameshar/public_html/article_view_action.php on line 15
+[20-Oct-2017 21:29:32 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/gameshar/public_html/article_view_action.php on line 15
+[20-Oct-2017 21:52:53 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/gameshar/public_html/article_view_action.php on line 15
+[20-Oct-2017 22:22:00 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/gameshar/public_html/article_view_action.php on line 15
+[20-Oct-2017 22:31:24 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/gameshar/public_html/article_view_action.php on line 15
+[20-Oct-2017 22:48:55 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/gameshar/public_html/article_view_action.php on line 15
+[20-Oct-2017 22:48:56 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/gameshar/public_html/article_view_action.php on line 15
+[20-Oct-2017 22:49:34 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/gameshar/public_html/article_view_action.php on line 15
+[20-Oct-2017 23:10:01 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/gameshar/public_html/article_view_action.php on line 15
+[20-Oct-2017 23:31:56 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/gameshar/public_html/article_view_action.php on line 15
+[21-Oct-2017 00:11:21 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/gameshar/public_html/article_view_action.php on line 15
+[21-Oct-2017 00:23:54 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/gameshar/public_html/article_view_action.php on line 15
+[21-Oct-2017 00:29:27 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/gameshar/public_html/article_view_action.php on line 15
+[21-Oct-2017 01:04:14 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/gameshar/public_html/article_view_action.php on line 15
+[21-Oct-2017 01:19:01 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/gameshar/public_html/article_view_action.php on line 15
+[21-Oct-2017 01:59:27 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/gameshar/public_html/article_view_action.php on line 15
+[21-Oct-2017 02:11:17 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/gameshar/public_html/article_view_action.php on line 15
+[06-Nov-2017 14:20:54 Australia/Brisbane] PHP Warning:  getimagesize(): Filename cannot be empty in /home/gameshar/public_html/submitguide.php on line 207
+[10-Nov-2017 15:04:59 Australia/Brisbane] PHP Warning:  getimagesize(): Filename cannot be empty in /home/gameshar/public_html/submitguide.php on line 207
+[10-Nov-2017 15:07:00 Australia/Brisbane] PHP Warning:  getimagesize(): Filename cannot be empty in /home/gameshar/public_html/submitguide.php on line 207
+[12-Nov-2017 14:49:53 Australia/Brisbane] PHP Notice:  Undefined index: tags in /home/gameshar/public_html/submitguide.php on line 30
+[26-Nov-2017 04:46:42 Australia/Brisbane] PHP Notice:  Undefined index: tags in /home/gameshar/public_html/submitguide.php on line 30
+[26-Nov-2017 16:32:07 Australia/Brisbane] PHP Notice:  Undefined index: tags in /home/gameshar/public_html/submitguide.php on line 30
+[26-Nov-2017 16:38:33 Australia/Brisbane] PHP Notice:  Undefined index: tags in /home/gameshar/public_html/submitguide.php on line 30
+[26-Nov-2017 16:42:10 Australia/Brisbane] PHP Notice:  Undefined index: tags in /home/gameshar/public_html/submitguide.php on line 30
+[27-Nov-2017 13:43:02 Australia/Brisbane] PHP Warning:  getimagesize(): Filename cannot be empty in /home/gameshar/public_html/submitguide.php on line 207
+[06-Dec-2017 19:35:35 Australia/Brisbane] PHP Notice:  Undefined variable: delete_aimageFILE in /home/gameshar/public_html/submitguide.php on line 287
+[06-Dec-2017 19:35:35 Australia/Brisbane] PHP Notice:  Undefined variable: delete_bimageFILE in /home/gameshar/public_html/submitguide.php on line 288
+[06-Dec-2017 19:35:35 Australia/Brisbane] PHP Notice:  Undefined variable: delete_cimageFILE in /home/gameshar/public_html/submitguide.php on line 289
+[06-Dec-2017 19:35:35 Australia/Brisbane] PHP Notice:  Undefined variable: delete_dimageFILE in /home/gameshar/public_html/submitguide.php on line 290
+[06-Dec-2017 19:35:35 Australia/Brisbane] PHP Notice:  Undefined variable: delete_eimageFILE in /home/gameshar/public_html/submitguide.php on line 291
+[06-Dec-2017 19:35:35 Australia/Brisbane] PHP Notice:  Undefined variable: delete_mainFILE in /home/gameshar/public_html/submitguide.php on line 292
+[06-Dec-2017 19:35:44 Australia/Brisbane] PHP Notice:  Undefined variable: delete_aimageFILE in /home/gameshar/public_html/submitguide.php on line 287
+[06-Dec-2017 19:35:44 Australia/Brisbane] PHP Notice:  Undefined variable: delete_bimageFILE in /home/gameshar/public_html/submitguide.php on line 288
+[06-Dec-2017 19:35:44 Australia/Brisbane] PHP Notice:  Undefined variable: delete_cimageFILE in /home/gameshar/public_html/submitguide.php on line 289
+[06-Dec-2017 19:35:44 Australia/Brisbane] PHP Notice:  Undefined variable: delete_dimageFILE in /home/gameshar/public_html/submitguide.php on line 290
+[06-Dec-2017 19:35:44 Australia/Brisbane] PHP Notice:  Undefined variable: delete_eimageFILE in /home/gameshar/public_html/submitguide.php on line 291
+[06-Dec-2017 19:35:44 Australia/Brisbane] PHP Notice:  Undefined variable: delete_mainFILE in /home/gameshar/public_html/submitguide.php on line 292
+[06-Dec-2017 19:35:51 Australia/Brisbane] PHP Notice:  Undefined variable: delete_aimageFILE in /home/gameshar/public_html/submitguide.php on line 287
+[06-Dec-2017 19:35:51 Australia/Brisbane] PHP Notice:  Undefined variable: delete_bimageFILE in /home/gameshar/public_html/submitguide.php on line 288
+[06-Dec-2017 19:35:51 Australia/Brisbane] PHP Notice:  Undefined variable: delete_cimageFILE in /home/gameshar/public_html/submitguide.php on line 289
+[06-Dec-2017 19:35:51 Australia/Brisbane] PHP Notice:  Undefined variable: delete_dimageFILE in /home/gameshar/public_html/submitguide.php on line 290
+[06-Dec-2017 19:35:51 Australia/Brisbane] PHP Notice:  Undefined variable: delete_eimageFILE in /home/gameshar/public_html/submitguide.php on line 291
+[06-Dec-2017 19:35:51 Australia/Brisbane] PHP Notice:  Undefined variable: delete_mainFILE in /home/gameshar/public_html/submitguide.php on line 292
+[06-Dec-2017 23:50:32 Australia/Brisbane] PHP Notice:  Undefined index: tags in /home/gameshar/public_html/submitguide.php on line 30
+[06-Dec-2017 23:50:48 Australia/Brisbane] PHP Notice:  Undefined index: step in /home/gameshar/public_html/submitguide.php on line 149
+[06-Dec-2017 23:50:48 Australia/Brisbane] PHP Warning:  Invalid argument supplied for foreach() in /home/gameshar/public_html/submitguide.php on line 149
+[10-Dec-2017 15:39:20 Australia/Brisbane] PHP Notice:  Undefined index: tags in /home/gameshar/public_html/submitguide.php on line 30
+[10-Dec-2017 15:41:07 Australia/Brisbane] PHP Notice:  Undefined index: tags in /home/gameshar/public_html/submitguide.php on line 30
+[10-Dec-2017 15:42:46 Australia/Brisbane] PHP Notice:  Undefined index: tags in /home/gameshar/public_html/submitguide.php on line 30
+[10-Dec-2017 15:44:03 Australia/Brisbane] PHP Notice:  Undefined index: tags in /home/gameshar/public_html/submitguide.php on line 30
+[10-Dec-2017 15:45:20 Australia/Brisbane] PHP Notice:  Undefined index: tags in /home/gameshar/public_html/submitguide.php on line 30
+[10-Dec-2017 15:48:03 Australia/Brisbane] PHP Notice:  Undefined index: tags in /home/gameshar/public_html/submitguide.php on line 30
+[11-Dec-2017 18:51:34 Australia/Brisbane] PHP Warning:  getimagesize(): Filename cannot be empty in /home/gameshar/public_html/submitguide.php on line 207
+[11-Dec-2017 18:51:34 Australia/Brisbane] PHP Notice:  Undefined variable: image_array in /home/gameshar/public_html/submitguide.php on line 232
+[29-Jan-2018 21:57:46 Australia/Brisbane] PHP Notice:  Undefined index: tags in /home/gameshar/public_html/submitguide.php on line 30
+[29-Jan-2018 22:00:22 Australia/Brisbane] PHP Warning:  getimagesize(): Filename cannot be empty in /home/gameshar/public_html/submitguide.php on line 207
+[29-Jan-2018 22:03:04 Australia/Brisbane] PHP Warning:  getimagesize(): Filename cannot be empty in /home/gameshar/public_html/submitguide.php on line 207

@@ -1,0 +1,1 @@
+<h3>Dialogue Choices</h3> This might not be especially obvious, but the difference between a good or bad choice for Geralt can sometimes affect the experience rewarded for completing the quest. Save before having conversations and if you feel that the conversation took a wrong turn, reload and choose the other option.

@@ -1,0 +1,3 @@
+<h3>Typhon Abilities</h3> When you unlock the psychoscope in Psychotronics, you will be able to scan enemies which will unlock new abilities. 
+The first abilities that you should unlock is Mimick Matter, Machine Mind and Phantom Shift. 
+Phantom Shift will allow you to survive, Mimick Matter will allow you to cram through tiny spaces and Machine Mind will allow you control enemy turrets and robots.

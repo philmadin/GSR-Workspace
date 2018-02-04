@@ -1,0 +1,4 @@
+Getting to the 'Inherit Skill' screen:
+
+In the 'Allies' tab at the bottom of the screen, you can find the Advanced Growth button (the only green coloured one in that section). Within this page you will find other options too that will improve your heroes in one way or the other. I will not be covering those here. 
+Select the Inherit Skill button, which will take you to a screen that has 2 empty slots, one for a recipient hero and one for a source hero. Below the 2 slots you have the list of all the heroes you have acquired so far. Your first step is to choose a recipient hero. 

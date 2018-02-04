@@ -1,0 +1,12 @@
+There are ten types of available buffs that can be cooked into your meals. It is possible to include ingredients that provide the same effect (e.g. Hearty Truffle and Hearty Salmon) but do not try to mix types as they will cancel each other out!
+Chilly – boosts heat resistance
+Electro – boosts electricity resistance
+Enduring – temporary bonus stamina
+Energizing – restores stamina
+Hasty – boosts movement speed
+Hearty – temporary bonus hearts
+Mighty – boosts attack
+Sneaky – boosts stealth
+Spicy – boosts cold resistance
+Tough – boosts defence
+The name is generally indicative of the effect it can provide, i.e. a Spicy Pepper or a Rushroom. Names also change with the quality of the item - Raw Gourmet Meat is always tastier than just Raw Meat.

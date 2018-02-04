@@ -1,0 +1,1 @@
+<h3>Search</h3> Find the Pokémon you want to chain. It can be through any methods of finding Pokémon, such as in grass, fishing, or in a cave. 
