@@ -2,7 +2,7 @@
 session_start();
 //error_reporting(E_ALL ^ E_NOTICE);
 
-$con = mysqli_connect('localhost','gameshar_dev','Fredwarrior123','gameshar_gsr');
+$con = mysqli_connect('localhost','root','root','gameshar_gsr');
 
 if (!$con) {
   die('Could not connect: ' . mysqli_error($con));
